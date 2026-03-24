@@ -5,6 +5,9 @@ description: "How to use this blog template."
 image: "./cover.webp"
 tags: ["Mizuki", "Blogging", "Customization"]
 category: Guides
+licenseName: "MIT"
+author: "sakoao"
+sourceLink: "https://github.com/sakoao/Mizuki"
 draft: false
 ---
 
